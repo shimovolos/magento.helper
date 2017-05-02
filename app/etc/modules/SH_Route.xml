@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <SH_Route>
+            <active>true</active>
+            <codePool>local</codePool>
+        </SH_Route>
+    </modules>
+</config>

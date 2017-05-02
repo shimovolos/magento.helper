@@ -24,3 +24,5 @@
 /php.ini.sample
 /index.php.sample
 /cron.php
+!/app/code/local/SH/*
+.htaccess
