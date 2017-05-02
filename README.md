@@ -6,5 +6,4 @@ Works with php 7.x.
 2) Use
 
 Examples:
-$helper = Mage::helper('sh_route/frontend_account');
-$helper->isMyAccount()
+$helper = Mage::helper('sh_route/frontend_account')->isMyAccount();
